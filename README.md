@@ -52,6 +52,14 @@ This is a curated list of tools that can be used during development to boost pro
 
 [GSAP](https://greensock.com/gsap/)
 
+# Authentication
+
+[Bcrypt-js](https://www.npmjs.com/package/bcryptjs)
+
+[JWT](https://jwt.io/)
+
+[Passport-JS](https://www.passportjs.org/)
+
 # Background
 
 [Free svg background generator](https://bgjar.com/)
@@ -99,6 +107,12 @@ This is a curated list of tools that can be used during development to boost pro
 # Cursor
 
 [custom-cursor-react](https://www.npmjs.com/package/custom-cursor-react)
+
+# Component Libraries
+
+[Core UI](https://coreui.io/)
+
+[Material UI](https://mui.com/)
 
 # Drag and Drop
 
@@ -182,6 +196,12 @@ This is a curated list of tools that can be used during development to boost pro
 
 [css-doodle](https://css-doodle.com/)
 
+# Scraping Libraries
+
+[Puppeteer](https://pptr.dev/)
+
+[Selenium](https://www.selenium.dev/)
+
 # Shadows
 
 [Smooth Shadow](https://shadows.brumm.af/)
@@ -221,12 +241,6 @@ This is a curated list of tools that can be used during development to boost pro
 # Webpage Shape
 
 [Shape Divider App](https://www.shapedivider.app/)
-
-# Component Libraries
-
-[Core UI](https://coreui.io/)
-
-[Material UI](https://mui.com/)
 
 # 3D Designs
 
