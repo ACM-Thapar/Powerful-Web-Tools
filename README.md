@@ -48,6 +48,8 @@ This is a curated list of tools that can be used during development to boost pro
 
 [Animate.css](https://animate.style/)
 
+[Framer-motion](https://www.framer.com/motion/)
+
 [GSAP](https://greensock.com/gsap/)
 
 # Background
@@ -118,6 +120,10 @@ This is a curated list of tools that can be used during development to boost pro
 
 [React-hook-form](https://react-hook-form.com/)
 
+[Formik](https://formik.org/)
+
+[Yup](https://www.npmjs.com/package/yup)
+
 # Glassmorphism
 
 [Glassmorphism CSS Generator](https://hype4.academy/tools/glassmorphism-generator)
@@ -149,6 +155,8 @@ This is a curated list of tools that can be used during development to boost pro
 # Loaders
 
 [Loaders](https://uiverse.io/loaders)
+
+[React-Awesome-Loaders](https://awesome-loaders.netlify.app/)
 
 # Maps
 
@@ -213,6 +221,12 @@ This is a curated list of tools that can be used during development to boost pro
 # Webpage Shape
 
 [Shape Divider App](https://www.shapedivider.app/)
+
+# Component Libraries
+
+[Core UI](https://coreui.io/)
+
+[Material UI](https://mui.com/)
 
 # 3D Designs
 
