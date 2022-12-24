@@ -176,6 +176,10 @@ This is a curated list of tools that can be used during development to boost pro
 
 [Leaflet](https://leafletjs.com/)
 
+# Mails
+
+[NodeMailer](https://nodemailer.com/about/)
+
 # Modal
 
 [react-modal](https://www.npmjs.com/package/react-modal)
