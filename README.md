@@ -17,7 +17,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ACM-Thapar/Powerful-Web-Tools)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
@@ -289,6 +289,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JhndaCoder"><img src="https://avatars.githubusercontent.com/u/96512236?v=4?s=100" width="100px;" alt="Amit Goyal"/><br /><sub><b>Amit Goyal</b></sub></a><br /><a href="https://github.com/ACM-Thapar/Powerful Web Tools/commits?author=JhndaCoder" title="Code">💻</a> <a href="https://github.com/ACM-Thapar/Powerful Web Tools/commits?author=JhndaCoder" title="Documentation">📖</a> <a href="#maintenance-JhndaCoder" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://portfolio-jogesh.netlify.app/"><img src="https://avatars.githubusercontent.com/u/88982643?v=4?s=100" width="100px;" alt="Jogesh Gupta"/><br /><sub><b>Jogesh Gupta</b></sub></a><br /><a href="#maintenance-jogeshgupta963" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://portfolio-simar-1450.netlify.app/"><img src="https://avatars.githubusercontent.com/u/92221517?v=4?s=100" width="100px;" alt="simardeepsingh1450"/><br /><sub><b>simardeepsingh1450</b></sub></a><br /><a href="https://github.com/ACM-Thapar/Powerful Web Tools/commits?author=SimardeepSingh1450" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
