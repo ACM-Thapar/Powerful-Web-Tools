@@ -157,6 +157,7 @@ This is a curated list of tools that can be used during development to boost pro
 # Loaders
 
 [Loaders](https://uiverse.io/loaders)
+[React-Awesome-Loaders](https://awesome-loaders.netlify.app/)
 
 # Maps
 
