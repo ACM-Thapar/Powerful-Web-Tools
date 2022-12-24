@@ -50,9 +50,13 @@ This is a curated list of tools that can be used during development to boost pro
 
 [GSAP](https://greensock.com/gsap/)
 
+[Framer-motion](https://www.framer.com/motion/)
+
 # Background
 
 [Free svg background generator](https://bgjar.com/)
+
+[Image Background Remover](https://www.remove.bg/)
 
 # Blob
 
@@ -117,6 +121,10 @@ This is a curated list of tools that can be used during development to boost pro
 # Forms
 
 [React-hook-form](https://react-hook-form.com/)
+
+[Formik](https://formik.org/)
+
+[Yup](https://www.npmjs.com/package/yup)
 
 # Glassmorphism
 
@@ -213,6 +221,12 @@ This is a curated list of tools that can be used during development to boost pro
 # Webpage Shape
 
 [Shape Divider App](https://www.shapedivider.app/)
+
+# Component Libraries
+
+[Material UI](https://mui.com/)
+
+[Core UI](https://coreui.io/)
 
 # 3D Designs
 
