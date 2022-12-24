@@ -12,9 +12,9 @@
 
 # ACM-Thapar
 
-![GitHub issues](https://img.shields.io/github/issues/ACM-Thapar/Markdown-Editor?style=flat-square&token=ANOHNVSU5PPKJXFZBZ5UXJ27BBNTO)
+![GitHub issues](https://img.shields.io/github/issues/ACM-Thapar/Powerful-Web-Tools?style=flat-square&token=ANOHNVSU5PPKJXFZBZ5UXJ27BBNTO)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-![GitHub repo size](https://img.shields.io/github/repo-size/ACM-Thapar/Markdown-Editor)
+![GitHub repo size](https://img.shields.io/github/repo-size/ACM-Thapar/Powerful-Web-Tools)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
@@ -26,9 +26,10 @@
 
 <div align="center">
 
-[![GitHub issues](https://img.shields.io/github/issues/ACM-Thapar/Markdown-Editor?logo=github)](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ACM-Thapar/Markdown-Editor?logo=git&logoColor=white) ![GitHub contributors](https://img.shields.io/github/contributors/ACM-Thapar/Markdown-Editor?logo=github)
+[![GitHub issues](https://img.shields.io/github/issues/ACM-Thapar/Powerful-Web-Tools?logo=github)](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ACM-Thapar/Powerful-Web-Tools?logo=git&logoColor=white) ![GitHub contributors](https://img.shields.io/github/contributors/ACM-Thapar/Powerful-Web-Tools?logo=github)
 
 </div>
+
 ## 🚀 Project Description
 
 This is a curated list of tools that can be used during development to boost productivity 📈. The list includes a variety of tools for purposes such as animations 🎥, buttons 🔘, 3D designs 🎮, and more. We have done extensive research 📚 and carefully selected only the most reliable and effective tools 🏆 to include in the list. Whether you are a beginner 🧑‍💼 or an experienced developer 🧑‍💻, we hope that this list will be a valuable resource 📋 and help you find the tools you need to take your productivity to the next level 🔝. 💪🏼
@@ -240,6 +241,10 @@ This is a curated list of tools that can be used during development to boost pro
     [Remove Background from Image - remove.bg](http://remove.bg)
 
 ---
+
+## Contribution to the project
+
+The contributing instructions are written in the [CONTRIBUTING.md file](https://github.com/ACM-Thapar/Powerful-Web-Tools/blob/main/CONTRIBUTING.md) . Thoroughly follow the instructions if you want your pull request to be merged without and conflicts
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
