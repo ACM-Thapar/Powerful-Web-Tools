@@ -1,0 +1,36 @@
+{
+  "projectName": "Powerful Web Tools",
+  "projectOwner": "ACM-Thapar",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "JhndaCoder",
+      "name": "Amit Goyal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96512236?v=4",
+      "profile": "https://github.com/JhndaCoder",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "jogeshgupta963",
+      "name": "Jogesh Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88982643?v=4",
+      "profile": "https://portfolio-jogesh.netlify.app/",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}
