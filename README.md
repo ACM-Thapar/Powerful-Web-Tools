@@ -48,15 +48,13 @@ This is a curated list of tools that can be used during development to boost pro
 
 [Animate.css](https://animate.style/)
 
-[GSAP](https://greensock.com/gsap/)
-
 [Framer-motion](https://www.framer.com/motion/)
+
+[GSAP](https://greensock.com/gsap/)
 
 # Background
 
 [Free svg background generator](https://bgjar.com/)
-
-[Image Background Remover](https://www.remove.bg/)
 
 # Blob
 
@@ -157,6 +155,7 @@ This is a curated list of tools that can be used during development to boost pro
 # Loaders
 
 [Loaders](https://uiverse.io/loaders)
+
 [React-Awesome-Loaders](https://awesome-loaders.netlify.app/)
 
 # Maps
@@ -225,9 +224,9 @@ This is a curated list of tools that can be used during development to boost pro
 
 # Component Libraries
 
-[Material UI](https://mui.com/)
-
 [Core UI](https://coreui.io/)
+
+[Material UI](https://mui.com/)
 
 # 3D Designs
 
