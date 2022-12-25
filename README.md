@@ -17,7 +17,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ACM-Thapar/Powerful-Web-Tools)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
@@ -60,6 +60,14 @@ This is a curated list of tools that can be used during development to boost pro
 
 [Passport-JS](https://www.passportjs.org/)
 
+# AR/VR
+
+[AR.js](https://ar-js-org.github.io/AR.js-Docs/)
+
+[Argon.js](https://www.argonjs.io/)
+
+[three.js](https://threejs.org/)
+
 # Background
 
 [Free svg background generator](https://bgjar.com/)
@@ -77,6 +85,17 @@ This is a curated list of tools that can be used during development to boost pro
 [Buttons](https://uiverse.io/buttons)
 
 [cssbuttons.app](https://cssbuttons.app/)
+
+# BackEnd Deployment
+
+[Render](https://render.com/)
+
+[Railway](https://railway.app/)
+
+[Cyclic](https://www.cyclic.sh/)
+
+[AWS](https://aws.amazon.com/getting-started/hands-on/deploy-nodejs-web-app/)
+
 
 # Cards
 
@@ -109,6 +128,9 @@ This is a curated list of tools that can be used during development to boost pro
 [custom-cursor-react](https://www.npmjs.com/package/custom-cursor-react)
 
 # Component Libraries
+[Theme UI](https://theme-ui.com/)
+
+[Chakra UI](https://chakra-ui.com/)
 
 [Core UI](https://coreui.io/)
 
@@ -137,6 +159,12 @@ This is a curated list of tools that can be used during development to boost pro
 [Formik](https://formik.org/)
 
 [Yup](https://www.npmjs.com/package/yup)
+
+# FrontEnd Deployment
+
+[FireBase](https://firebase.google.com/)
+
+[Netlify](https://www.netlify.com/)
 
 # Glassmorphism
 
@@ -180,6 +208,8 @@ This is a curated list of tools that can be used during development to boost pro
 
 [NodeMailer](https://nodemailer.com/about/)
 
+[EmailJS](https://www.emailjs.com/)
+
 # Modal
 
 [react-modal](https://www.npmjs.com/package/react-modal)
@@ -194,11 +224,17 @@ This is a curated list of tools that can be used during development to boost pro
 
 # Particles
 
-[🔆 A 2D/3D particle library built on React, Three.js and WebGL | Tim Ellenberger](https://www.timellenberger.com/particles)
+[A 2D/3D particle library built on React, Three.js and WebGL](https://www.timellenberger.com/particles)
+
+[ParticlesJS](https://particles.js.org/)
 
 # Patterns
 
 [css-doodle](https://css-doodle.com/)
+
+# Payments API
+
+[Stripe](https://stripe.com/en-in)
 
 # Scraping Libraries
 
@@ -209,6 +245,12 @@ This is a curated list of tools that can be used during development to boost pro
 # Shadows
 
 [Smooth Shadow](https://shadows.brumm.af/)
+
+# State Management
+
+[Recoil](https://recoiljs.org/)
+
+[Redux](https://redux.js.org/)
 
 # Switches
 
@@ -230,6 +272,14 @@ This is a curated list of tools that can be used during development to boost pro
 
 [windups](https://windups.gwil.co/)
 
+# Testing Libraries
+
+[React-Testing-Library](https://testing-library.com/docs/react-testing-library/intro/)
+
+[Jest](https://jestjs.io/)
+
+[Cypress](https://www.cypress.io/)
+
 # Video Background
 
 [bideo.js](https://rishabhp.github.io/bideo.js/)
@@ -245,6 +295,12 @@ This is a curated list of tools that can be used during development to boost pro
 # Webpage Shape
 
 [Shape Divider App](https://www.shapedivider.app/)
+
+# Web3
+
+[Ethers.js](https://docs.ethers.org/v5/)
+
+[web3.js](https://web3js.readthedocs.io/en/v1.8.1/)
 
 # 3D Designs
 
@@ -289,6 +345,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JhndaCoder"><img src="https://avatars.githubusercontent.com/u/96512236?v=4?s=100" width="100px;" alt="Amit Goyal"/><br /><sub><b>Amit Goyal</b></sub></a><br /><a href="https://github.com/ACM-Thapar/Powerful Web Tools/commits?author=JhndaCoder" title="Code">💻</a> <a href="https://github.com/ACM-Thapar/Powerful Web Tools/commits?author=JhndaCoder" title="Documentation">📖</a> <a href="#maintenance-JhndaCoder" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://portfolio-jogesh.netlify.app/"><img src="https://avatars.githubusercontent.com/u/88982643?v=4?s=100" width="100px;" alt="Jogesh Gupta"/><br /><sub><b>Jogesh Gupta</b></sub></a><br /><a href="#maintenance-jogeshgupta963" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://portfolio-simar-1450.netlify.app/"><img src="https://avatars.githubusercontent.com/u/92221517?v=4?s=100" width="100px;" alt="simardeepsingh1450"/><br /><sub><b>simardeepsingh1450</b></sub></a><br /><a href="https://github.com/ACM-Thapar/Powerful Web Tools/commits?author=SimardeepSingh1450" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/deecodess"><img src="https://avatars.githubusercontent.com/u/90607584?v=4?s=100" width="100px;" alt="Deepanshi Sharma"/><br /><sub><b>Deepanshi Sharma</b></sub></a><br /><a href="https://github.com/ACM-Thapar/Powerful Web Tools/commits?author=deecodess" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
