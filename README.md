@@ -117,6 +117,9 @@ This is a curated list of tools that can be used during development to boost pro
 [custom-cursor-react](https://www.npmjs.com/package/custom-cursor-react)
 
 # Component Libraries
+[Theme UI](https://theme-ui.com/)
+
+[Chakra UI](https://chakra-ui.com/)
 
 [Core UI](https://coreui.io/)
 
@@ -221,6 +224,10 @@ This is a curated list of tools that can be used during development to boost pro
 # Shadows
 
 [Smooth Shadow](https://shadows.brumm.af/)
+
+# State Management
+
+[Recoil](https://recoiljs.org/)
 
 # Switches
 
