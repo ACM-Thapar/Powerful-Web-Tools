@@ -60,6 +60,14 @@ This is a curated list of tools that can be used during development to boost pro
 
 [Passport-JS](https://www.passportjs.org/)
 
+# AR/VR
+
+[AR.js](https://ar-js-org.github.io/AR.js-Docs/)
+
+[Argon.js](https://www.argonjs.io/)
+
+[three.js](https://threejs.org/)
+
 # Background
 
 [Free svg background generator](https://bgjar.com/)
@@ -180,6 +188,8 @@ This is a curated list of tools that can be used during development to boost pro
 
 [NodeMailer](https://nodemailer.com/about/)
 
+[EmailJS](https://www.emailjs.com/)
+
 # Modal
 
 [react-modal](https://www.npmjs.com/package/react-modal)
@@ -194,7 +204,9 @@ This is a curated list of tools that can be used during development to boost pro
 
 # Particles
 
-[🔆 A 2D/3D particle library built on React, Three.js and WebGL | Tim Ellenberger](https://www.timellenberger.com/particles)
+[A 2D/3D particle library built on React, Three.js and WebGL](https://www.timellenberger.com/particles)
+
+[ParticlesJS](https://particles.js.org/)
 
 # Patterns
 
@@ -245,6 +257,12 @@ This is a curated list of tools that can be used during development to boost pro
 # Webpage Shape
 
 [Shape Divider App](https://www.shapedivider.app/)
+
+# Web3
+
+[Ethers.js](https://docs.ethers.org/v5/)
+
+[web3.js](https://web3js.readthedocs.io/en/v1.8.1/)
 
 # 3D Designs
 
