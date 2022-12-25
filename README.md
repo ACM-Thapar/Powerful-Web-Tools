@@ -86,6 +86,17 @@ This is a curated list of tools that can be used during development to boost pro
 
 [cssbuttons.app](https://cssbuttons.app/)
 
+# BackEnd Deployment
+
+[Render](https://render.com/)
+
+[Railway](https://railway.app/)
+
+[Cyclic](https://www.cyclic.sh/)
+
+[AWS](https://aws.amazon.com/getting-started/hands-on/deploy-nodejs-web-app/)
+
+
 # Cards
 
 [Cards](https://uiverse.io/cards)
@@ -148,6 +159,12 @@ This is a curated list of tools that can be used during development to boost pro
 [Formik](https://formik.org/)
 
 [Yup](https://www.npmjs.com/package/yup)
+
+# FrontEnd Deployment
+
+[FireBase](https://firebase.google.com/)
+
+[Netlify](https://www.netlify.com/)
 
 # Glassmorphism
 
@@ -215,6 +232,10 @@ This is a curated list of tools that can be used during development to boost pro
 
 [css-doodle](https://css-doodle.com/)
 
+# Payments API
+
+[Stripe](https://stripe.com/en-in)
+
 # Scraping Libraries
 
 [Puppeteer](https://pptr.dev/)
@@ -228,6 +249,8 @@ This is a curated list of tools that can be used during development to boost pro
 # State Management
 
 [Recoil](https://recoiljs.org/)
+
+[Redux](https://redux.js.org/)
 
 # Switches
 
@@ -248,6 +271,14 @@ This is a curated list of tools that can be used during development to boost pro
 # Typewritter Effect
 
 [windups](https://windups.gwil.co/)
+
+# Testing Libraries
+
+[React-Testing-Library](https://testing-library.com/docs/react-testing-library/intro/)
+
+[Jest](https://jestjs.io/)
+
+[Cypress](https://www.cypress.io/)
 
 # Video Background
 
